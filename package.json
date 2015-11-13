@@ -1,12 +1,12 @@
 {
-  "name": "ntlmjs",
+  "name": "jsntlm",
   "description": "NTLM authentication for node.js",
   "version": "1.0.0",
   "license": "Apache-2.0",
-  "homepage": "http://github.com/Sage-ERP-X3/ntlmjs",
+  "homepage": "http://github.com/Sage-ERP-X3/jsntlm",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Sage-ERP-X3/ntlmjs.git"
+    "url": "git://github.com/Sage-ERP-X3/jsntlm.git"
   },
   "engines": {
     "node": ">=0.10.0"
@@ -33,6 +33,6 @@
   ],
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/Sage-ERP-X3/ntlmjs/issues"
+    "url": "https://github.com/Sage-ERP-X3/jsntlm/issues"
   }
 }
